@@ -1,0 +1,4 @@
+Pembagian tugas percobaan kelompok
+Anderson percobaan 1 & 2 (grafik perbedaan sigmoid dan relu)
+Leon percobaan 3 & 4 (Mengurangi layer)
+Yehezkiel percobaan 5 & 6 (Mengganti jumlah filter)
